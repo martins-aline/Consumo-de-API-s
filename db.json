@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "nome": "Maria",
+      "e-mail": "texte1@email.com",
+      "Senha": "1234",
+      "id": "1"
+    },
+    {
+      "email": "aline",
+      "senha": "456",
+      "id": "LV60gvv"
+    },
+    {
+      "email": "Joana",
+      "senha": "654",
+      "id": "X5b_rD6"
+    },
+    {
+      "email": "João",
+      "senha": "753",
+      "id": "6WPg7V3"
+    },
+    {
+      "email": "aline",
+      "senha": "756",
+      "id": "FXnU_tf"
+    },
+    {
+      "email": "aline",
+      "senha": "756",
+      "id": "uoJxeP8"
+    },
+    {
+      "email": "aline",
+      "senha": "756",
+      "id": "n9v0Jkc"
+    }
+  ]
+}
